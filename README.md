@@ -23,6 +23,6 @@ https://customer-lifetime-value.herokuapp.com/
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/68856038/140651504-c46b953e-a866-48ea-baa9-e1d55eb642d9.png)
 
   
